@@ -3,6 +3,6 @@ This repository is the collection of key documentation and code of a CMS (Crisis
 
 Install Django: pip3 install django
 
-Run the server: python manage.py runserver
+Run the server: python3 manage.py runserver
 
 Go to : http://127.0.0.1:8000/ in your web browser
